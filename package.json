@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fetchargv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch URLs and argv query parts with stable normalization.",
+  "bin": {
+    "fetchargv": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fetchargv.git"
+  },
+  "homepage": "https://theworker02.github.io/fetchargv/",
+  "keywords": [
+    "fetch",
+    "argv",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
